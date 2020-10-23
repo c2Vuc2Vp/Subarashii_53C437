@@ -276,24 +276,4 @@ cls
 start autres/activations_word_16.bat
 goto OTHER
 
-:expe
-@echo off
-
-set /a max=0
-set /a nbr=0
-
-rem Compte le nombre de répertoires et de sous-répertoires
-
-For /F %%a In ('dir /A:D /B /S ^| find ":"') Do set /a max+=1
-
-rem Choisit un nombre aléatoire entre 1 et le nombre de répertoires
-set /a nbr=%random%%%%max% + 1
-
-rem Met en variable le nom du répertoire qui correspond au nombre aléatoire
-
-for /F "tokens=2 delims=]" %%i in ('dir /A:D /B /S ^| find /N ":" ^| find "[%nbr%]"') do set repert=%%i
-
-cd "%repert%"
-pause
-
 :End
