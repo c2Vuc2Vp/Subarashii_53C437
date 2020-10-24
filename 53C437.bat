@@ -45,7 +45,7 @@ cls
 echo.
 echo        ##########################################################
 echo        #                 Script  : Subarasii 53C437             #
-echo        #                 Version : 1.2 alpha                    #
+echo        #                 Version : 1.1 alpha                    #
 echo        #                 Auteur  : Random                       #
 echo        #                 Whatsapp: +*** *********               #
 echo        #                 Telegram: https://t.me/*****           #
