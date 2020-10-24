@@ -45,7 +45,7 @@ cls
 echo.
 echo        ##########################################################
 echo        #                 Script  : Subarasii 53C437             #
-echo        #                 Version : 1.1 alpha                    #
+echo        #                 Version : 1.2 alpha                    #
 echo        #                 Auteur  : Random                       #
 echo        #                 Whatsapp: +*** *********               #
 echo        #                 Telegram: https://t.me/*****           #
@@ -111,6 +111,10 @@ echo   **
 echo.
 echo.
 goto MENU
+
+
+
+
 :MENU
 echo 1~     Fichiers
 echo 2~     Reseaux
@@ -132,7 +136,7 @@ goto banner
 @ECHO OFF
 cls
 echo.
-color fa
+color fc
 echo 1~     Hostpost
 echo 2~     WIFI
 echo 99~    Retour
@@ -240,7 +244,7 @@ goto CACHER
 @ECHO OFF
 cls
 echo.
-color fc
+color a
 echo 1~     USB
 echo 2~     Activer Microsoft Office 16
 echo 99~    Retour
