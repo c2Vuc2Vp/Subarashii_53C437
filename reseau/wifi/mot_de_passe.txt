@@ -1,1 +1,458 @@
 
+Profil Sam A7 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Sam A7
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Sam A7"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+    Contenu de la cl‚            : angemarie
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: fixe
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t           : Op‚rateur
+
+
+Profil c2Vuc2Vp 2 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: c2Vuc2Vp 2
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "c2Vuc2Vp"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : Ouvrir
+    Chiffrement                 : Aucun
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Absent
+    Index de la cl‚ÿ       : 1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil c2Vuc2Vp sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: c2Vuc2Vp
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "c2Vuc2Vp"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil WIFI INPHB sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: WIFI INPHB
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "WIFI INPHB"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : Ouvrir
+    Chiffrement                 : Aucun
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Absent
+    Index de la cl‚ÿ       : 1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil TECNO SPARK 2 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: TECNO SPARK 2
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "TECNO SPARK 2"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : Ouvrir
+    Chiffrement                 : Aucun
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Absent
+    Index de la cl‚ÿ       : 1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil Galaxy A3 Core1181 2 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Galaxy A3 Core1181 2
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Galaxy A3 Core1181"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : Ouvrir
+    Chiffrement                 : Aucun
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Absent
+    Index de la cl‚ÿ       : 1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil Galaxy A3 Core1181 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Galaxy A3 Core1181
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Galaxy A3 Core1181"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil TECNO SPARK 4 Air sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: TECNO SPARK 4 Air
+  Options de contr“le      :
+      Mode de connexion    : connexion manuelle
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "TECNO SPARK 4 Air"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : Ouvrir
+    Chiffrement                 : Aucun
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Absent
+    Index de la cl‚ÿ       : 1
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil AndroidAP3831 sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: AndroidAP3831
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "AndroidAP3831"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: fixe
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t           : Op‚rateur
+
+
+Profil FESI FIBRE sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: FESI FIBRE
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "FESI FIBRE"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+
+
+Profil Cyber_Benguiste sur l'interface Wi-Fiÿ: 
+======================================================================= 
+
+Appliqu‚ÿ: Profil Tous les utilisateurs    
+
+Informations sur le profil 
+------------------- 
+    Version                : 1
+    Type                   : R‚seau local sans fil
+    Nom                   ÿ: Cyber_Benguiste
+  Options de contr“le      :
+      Mode de connexion   ÿ: connexion automatique
+        Diffusion r‚seauÿ  : Connecter uniquement si ce r‚seau diffuse
+      Commutation auto : ne pas basculer vers d'autres r‚seaux
+       Randomisation MACÿ: D‚sactiv‚e
+
+ParamŠtres de connectivit‚
+--------------------------
+    Nombre de SSIDÿ   ÿÿÿÿÿÿÿÿ: 1
+    Nom du SSIDÿ           : "Cyber_Benguiste"
+    Type de r‚seauÿÿÿÿÿ   ÿÿÿÿ: Infrastructure
+    Type de radio ÿÿÿÿÿÿÿÿÿ: [ Tous les types de radio ]
+    Extension du fournisseurÿÿÿÿÿÿ: absente
+
+ParamŠtres de s‚curit‚ 
+----------------- 
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : CCMP
+    Authentification         : WPA2ÿ-ÿPersonnel
+    Chiffrement                 : GCMP
+    Cl‚ de s‚curit‚ÿÿÿÿÿÿÿÿ: Pr‚sent
+
+ParamŠtres du co–t 
+------------------ 
+    Co–t                  ÿ: sans restriction
+    Encombrement              : Non
+    Limite de donn‚es presque atteinteÿ: Non
+    Limite de donn‚es d‚pass‚e        : Non
+    Itin‚rance                : Non
+    Source de co–t            : Par d‚faut
+

